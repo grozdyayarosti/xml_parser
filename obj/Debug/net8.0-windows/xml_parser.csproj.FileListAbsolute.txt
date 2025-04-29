@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\xml_parser\bin\Debug\net8.0-windows\xml_parser.exe
+C:\Users\User\source\repos\xml_parser\bin\Debug\net8.0-windows\xml_parser.deps.json
+C:\Users\User\source\repos\xml_parser\bin\Debug\net8.0-windows\xml_parser.runtimeconfig.json
+C:\Users\User\source\repos\xml_parser\bin\Debug\net8.0-windows\xml_parser.dll
+C:\Users\User\source\repos\xml_parser\bin\Debug\net8.0-windows\xml_parser.pdb
+C:\Users\User\source\repos\xml_parser\obj\Debug\net8.0-windows\xml_parser.Form1.resources
+C:\Users\User\source\repos\xml_parser\obj\Debug\net8.0-windows\xml_parser.csproj.GenerateResource.cache
+C:\Users\User\source\repos\xml_parser\obj\Debug\net8.0-windows\xml_parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\xml_parser\obj\Debug\net8.0-windows\xml_parser.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\xml_parser\obj\Debug\net8.0-windows\xml_parser.AssemblyInfo.cs
+C:\Users\User\source\repos\xml_parser\obj\Debug\net8.0-windows\xml_parser.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\xml_parser\obj\Debug\net8.0-windows\xml_parser.dll
+C:\Users\User\source\repos\xml_parser\obj\Debug\net8.0-windows\refint\xml_parser.dll
+C:\Users\User\source\repos\xml_parser\obj\Debug\net8.0-windows\xml_parser.pdb
+C:\Users\User\source\repos\xml_parser\obj\Debug\net8.0-windows\xml_parser.genruntimeconfig.cache
+C:\Users\User\source\repos\xml_parser\obj\Debug\net8.0-windows\ref\xml_parser.dll

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Fruits>
+  <Fruit>
+    <Name>Яблоко</Name>
+    <Color>Красное</Color>
+    <Taste>Сладкое</Taste>
+    <Season>Осень</Season>
+    <Calories>52</Calories>
+    <VitaminC>4.6</VitaminC>
+  </Fruit>
+  <Fruit>
+    <Name>Банан</Name>
+    <Color>Желтый</Color>
+    <Taste>Сладкий</Taste>
+    <Season>Круглый год</Season>
+    <Calories>89</Calories>
+    <VitaminC>8.7</VitaminC>
+  </Fruit>
+  <Fruit>
+    <Name>Апельсин</Name>
+    <Color>Оранжевый</Color>
+    <Taste>Кисло-сладкий</Taste>
+    <Season>Зима</Season>
+    <Calories>47</Calories>
+    <VitaminC>53.2</VitaminC>
+  </Fruit>
+  <Fruit>
+    <Name>Киви</Name>
+    <Color>Зеленый</Color>
+    <Taste>Кисло-сладкий</Taste>
+    <Season>Зима</Season>
+    <Calories>61</Calories>
+    <VitaminC>92.7</VitaminC>
+  </Fruit>
+  <Fruit>
+    <Name>Виноград</Name>
+    <Color>Фиолетовый</Color>
+    <Taste>Сладкий</Taste>
+    <Season>Лето</Season>
+    <Calories>69</Calories>
+    <VitaminC>3.2</VitaminC>
+  </Fruit>
+  <Fruit>
+    <Name>Манго</Name>
+    <Color>Оранжевый</Color>
+    <Taste>Сладкий</Taste>
+    <Season>Лето</Season>
+    <Calories>60</Calories>
+    <VitaminC>36.4</VitaminC>
+  </Fruit>
+</Fruits>

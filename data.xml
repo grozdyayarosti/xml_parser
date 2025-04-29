@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book>
+    <Title>Война и мир</Title>
+    <Author>Лев Толстой</Author>
+    <Year>1869</Year>
+    <Genre>Роман-эпопея</Genre>
+    <Pages>1225</Pages>
+    <Language>Русский</Language>
+  </Book>
+  <Book>
+    <Title>Преступление и наказание</Title>
+    <Author>Фёдор Достоевский</Author>
+    <Year>1866</Year>
+    <Genre>Психологический роман</Genre>
+    <Pages>608</Pages>
+    <Language>Русский</Language>
+  </Book>
+  <Book>
+    <Title>Мастер и Маргарита</Title>
+    <Author>Михаил Булгаков</Author>
+    <Year>1967</Year>
+    <Genre>Фантастический роман</Genre>
+    <Pages>384</Pages>
+    <Language>Русский</Language>
+  </Book>
+  <Book>
+    <Title>1984</Title>
+    <Author>Джордж Оруэлл</Author>
+    <Year>1949</Year>
+    <Genre>Антиутопия</Genre>
+    <Pages>328</Pages>
+    <Language>Английский</Language>
+  </Book>
+  <Book>
+    <Title>Улисс</Title>
+    <Author>Джеймс Джойс</Author>
+    <Year>1922</Year>
+    <Genre>Модернистский роман</Genre>
+    <Pages>736</Pages>
+    <Language>Английский</Language>
+  </Book>
+  <Book>
+    <Title>Сто лет одиночества</Title>
+    <Author>Габриэль Гарсиа Маркес</Author>
+    <Year>1967</Year>
+    <Genre>Магический реализм</Genre>
+    <Pages>416</Pages>
+    <Language>Испанский</Language>
+  </Book>
+</Books>
